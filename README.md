@@ -1,17 +1,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Rasmiranjan Mohanty</h1>
-<h3 align="center"ersatile professional with a strong background in backend development, skilled in Spring Boot, Microservices, REST API, DevOps, PL-SQL, Oracle DB, and GCP Cloud. Agile enthusiast, committed to driving innovation and excellence. Seeking dynamic opportunities in a growth-oriented environment.</h3>
+<h3 align="center">ersatile professional with a strong background in backend development, skilled in Spring Boot, Microservices, REST API, DevOps, PL-SQL, Oracle DB, and GCP Cloud. Agile enthusiast, committed to driving innovation and excellence. Seeking dynamic opportunities in a growth-oriented environment.</h3>
 
 <p align="left"> <img src="https://in.linkedin.com/in/rasmi-ranjan" alt="arpit-mohanty" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dfsdfas" target="blank"><img src="https://img.shields.io/twitter/follow/dfsdfas?logo=twitter&style=for-the-badge" alt="dfsdfas" /></a> </p>
 
-- 🔭 I’m currently working on [Vande-kishan]([www.githubprofile](https://github.com/arpit-mhnty/vande-kisan/tree/main))
+- 🔭 I’m currently working on [Vande-kishan]([www.githubprofile](https://github.com/arpit-mhnty/vande-kisan/tree/main)
 
-- 🌱 I’m currently learning **AWS and Ethereum(Block-chain)**
+- 🌱 I’m currently learning **Generative AI & GCP cloud**
 
-- 👨‍💻 All of my projects are available at [[portfoilio.com]([portfoilio.com)
+- 👨‍💻 All of my projects are available at [[waitkaro.com]([waitkaro.com)
 
 - 📫 How to reach me **www.rasmiranjan.com@gmail.com**
 
@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dfsdfas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dfsdfas" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/dfsdfas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dfsdfas" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/rasmiranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasmiranjan" height="30" width="40" /></a>
-<a href="https://instagram.com/evixa_nexto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="evixa_nexto" height="30" width="40" /></a>
+<a href="https://instagram.com/hey.mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="evixa_nexto" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rasmiranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rasmiranjan" height="30" width="40" /></a>
 </p>
 
