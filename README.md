@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Rasmiranjan Mohanty</h1>
-<h3 align="center">Creative-minded and detail-oriented individual with the ability to adhere to established procedures and thrive and learn on my own under little or no supervision. Seeking the role of a Software Engineer at Tata Consulancy Services (<b>TCS</b>). to incorporate my expertise in software design, application development and quality assurance.</h3>
+<h3 align="center"ersatile professional with a strong background in backend development, skilled in Spring Boot, Microservices, REST API, DevOps, PL-SQL, Oracle DB, and GCP Cloud. Agile enthusiast, committed to driving innovation and excellence. Seeking dynamic opportunities in a growth-oriented environment.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit-mohanty&label=Profile%20views&color=0e75b6&style=flat" alt="arpit-mohanty" /> </p>
+<p align="left"> <img src="https://in.linkedin.com/in/rasmi-ranjan" alt="arpit-mohanty" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dfsdfas" target="blank"><img src="https://img.shields.io/twitter/follow/dfsdfas?logo=twitter&style=for-the-badge" alt="dfsdfas" /></a> </p>
 
