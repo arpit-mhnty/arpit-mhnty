@@ -5,7 +5,7 @@
 
 ### Summery :-
 
-- 🔭 I’m currently working at Tata Consultancy Services(TCS)
+- 🔭 I’m currently working at Tata Consultancy Services(<b>TCS</b>)
 - 🔭 I’m currently building  this project [Vande-kishan](https://github.com/arpit-mhnty/vande-kisan/tree/main)
 
 - 🌱 I’m currently learning **Generative AI & GCP cloud**
