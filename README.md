@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Rasmiranjan Mohanty</h1>
 <h3 align="center">Versatile professional with a strong background in<b> Backend Development</b>, skilled in Spring Boot, Microservices, REST API, DevOps, PL-SQL, Oracle DB, and GCP Cloud. Agile enthusiast, committed to driving innovation and excellence. Seeking dynamic opportunities in a growth-oriented environment.</h3>
 
