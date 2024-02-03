@@ -30,5 +30,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpit-mohanty&show_icons=true&locale=en" alt="arpit-mohanty" /></p>
+
 
