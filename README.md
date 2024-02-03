@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/dfsdfas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dfsdfas" height="30" width="40" /></a> -->
-<a href="[https://linkedin.com/in/rasmiranjan](https://in.linkedin.com/in/rasmi-ranjan)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasmiranjan" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/rasmiranjan](https://in.linkedin.com/in/rasmiranjan)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasmiranjan" height="30" width="40" /></a>
 <a href="https://instagram.com/hey.mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="evixa_nexto" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rasmiranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rasmiranjan" height="30" width="40" /></a>
 </p>
