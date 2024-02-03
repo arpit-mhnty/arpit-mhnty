@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dfsdfas" target="blank"><img src="https://img.shields.io/twitter/follow/dfsdfas?logo=twitter&style=for-the-badge" alt="dfsdfas" /></a> </p>
 
-- 🔭 I’m currently working on [Vande-kishan](www.githubprofile)
+- 🔭 I’m currently working on [Vande-kishan]([www.githubprofile](https://github.com/arpit-mhnty/vande-kisan/tree/main))
 
 - 🌱 I’m currently learning **AWS and Ethereum(Block-chain)**
 
