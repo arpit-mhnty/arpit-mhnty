@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Generative AI & GCP cloud**
 
-- 👨‍💻 All of my projects are available at [waitkaro.com](waitkaro.com)
+- 👨‍💻 All of my projects are available at [waitkaro.com](waitkro.com)
 
 - 📫 How to reach me **www.rasmiranjan.com@gmail.com**
 
